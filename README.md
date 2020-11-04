@@ -5,4 +5,5 @@
 ### Utilizando Html e Css3 
 
 **Print da página**
-https://github.com/Alexsander-Cordeiro/Pagina_Inicial_Instagram/issues/1#issue-736176468
+![instagram](https://user-images.githubusercontent.com/32112452/98126054-ec650000-1e93-11eb-9ce1-8fdd82e28a53.PNG)
+
